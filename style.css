@@ -1,0 +1,59 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.banner {
+  background-color: #f2f2f2;
+  padding: 20px;
+  text-align: center;
+}
+
+.cars {
+  padding: 20px;
+}
+
+.car {
+  display: inline-block;
+  width: 30%;
+  padding: 10px;
+  text-align: center;
+  vertical-align: top;
+}
+
+.car img {
+  width: 100%;
+  height: auto;
+}
+
+.services {
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+.services ul {
+  list-style: disc;
+  margin
